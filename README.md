@@ -2,7 +2,7 @@
 
 - 🙋🏾‍♂️ Cybersecurity Junior with a passion for digital forensics, threat hunting, and incident response. Currently building my Security Analyst skills throough the use of various certifications and projects/labs.
 
-- 🔭 I’m currently working on attaining my Cisco Certified Network Associate (CCNA) certification
+- 🔭 I’m currently working on attaining my CompTia Security+ & Red Hat Certified System Administrator (RHCSA) certification
   
 - 🤺 I’m currently learning **Networking & Security Operations**
 
@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/meekanye/](https://www.linkedin.com/in/meekanye/)
 
-<h2>👨‍💻 Security Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>🚧 Coming Soon 🚧</b>
 
