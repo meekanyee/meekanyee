@@ -2,11 +2,11 @@
 
 - 🙋🏾‍♂️ Cybersecurity Junior with a passion for digital forensics, threat hunting, and incident response. Currently building my Security Analyst skills throough the use of various certifications and projects/labs.
 
-- 🔭 I’m currently working on attaining my CompTia Security+ & Red Hat Certified System Administrator (RHCSA) certification
+- 🔭 I’m currently working on attaining my Red Hat Certified System Administrator (RHCSA) certification
   
-- 🤺 I’m currently learning **Networking & Security Operations**
+- 🤺 I’m currently learning **Linux**
 
-- 💬 Ask me about **my Cybersecurity journey**
+- 💬 Ask me about **my Ccomputer Science journey**
 
 - 📫 How to reach me **mcnielanye@gmail.com**
 
