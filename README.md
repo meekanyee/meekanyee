@@ -6,7 +6,7 @@
   
 - 🤺 I’m currently learning **Linux**
 
-- 💬 Ask me about **my Ccomputer Science journey**
+- 💬 Ask me about **my Computer Science journey**
 
 - 📫 How to reach me **mcnielanye@gmail.com**
 
