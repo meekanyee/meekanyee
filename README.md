@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋🏽, I'm Meek Anye</h1>
 
-- 🙋🏾‍♂️ Cybersecurity Junior with a passion for digital forensics, threat hunting, and incident response. Currently building my Security Analyst skills throough the use of various certifications and projects/labs.
-
-- 🔭 I’m currently working on attaining my Red Hat Certified System Administrator (RHCSA) certification
+- 🔭 I’m currently working on attaining my Red Hat Certified Engineer (RHCE) certification
   
 - 🤺 I’m currently learning **Linux**
 
