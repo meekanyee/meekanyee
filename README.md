@@ -12,7 +12,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>🚧 Coming Soon 🚧</b>
+- <b>Azure Cost Visibility Dashboard</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
