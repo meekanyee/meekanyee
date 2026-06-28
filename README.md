@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Meek Anye</h1>
 
-- 🔭 I’m currently working on attaining my Red Hat Certified Engineer (RHCE) certification
+- 🔭 I’m currently working on attaining my AZ-104 certification
   
 - 🤺 I’m currently learning **Linux**
 
