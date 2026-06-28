@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏽, I'm Meek Anye</h1>
+<h1 align="center">Hi, I'm Meek Anye</h1>
 
 - 🔭 I’m currently working on attaining my Red Hat Certified Engineer (RHCE) certification
   
