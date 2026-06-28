@@ -12,7 +12,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Azure Cost Visibility Dashboard</b>
+- <b>Azure Cost Visibility Dashboard</b> (https://github.com/meekanyee/Azure-Cost-Visibility-Dashboard)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
